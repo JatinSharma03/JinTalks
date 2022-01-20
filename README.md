@@ -1,1 +1,1 @@
-# JinTalks
+# JinTalks - Real time chat application
